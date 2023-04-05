@@ -1,4 +1,3 @@
-
 # Proyecto Grupal
 
 Proyecto Grupal basado en requerimientos :
@@ -12,16 +11,13 @@ seguimiento. Si bien es factible su uso, a medida que se agreguen nuevos cliente
 creciendo, y será complejo mantener la integridad entre los datos, impidiendo relacionarlos
 adecuadamente.
 
-
 ## Authors
 
-- Sala 3
-
+-   Sala 3
 
 ## License
 
-No hay licencia , use nomas :D 
-
+No hay licencia , use nomas :D
 
 ## Usage/Examples
 
@@ -37,12 +33,13 @@ Agregamos la referencia a #myTable que es el id del elemento tabla en el html
 
 
 ## 🚀 About Me
-Grupo formado por 6 personas para dar una solucion a una empresa 
+Grupo formado por 6 personas para dar una solucion a una empresa
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Jquery, Bootstrap 
+Javascript, HTML, CSS, Jquery, Bootstrap
 
 
 ## 🔗 Link referente al proyecto actualizado actualmente grupal 6
 https://github.com/Lostovayne/Evaluacion-grupal-4
+```
